@@ -1,0 +1,28 @@
+# RUDRA Implementation Roadmap
+
+- **Phase 0 — Foundation Architecture (CURRENT)**
+  - Core models, config, event bus (BRIDGE), permissions (CONSENT), sessions (SESSION), tool registry (TOOL REGISTRY), evidence (EVIDENCE), verification engine (VERITAS), platform abstraction, orchestrator (AXIOM), documentation, unit tests.
+- **Phase 1 — Portable Core**
+  - Connect layer (CN), USB portability layer (UP), launcher interface, session persistence.
+- **Phase 2 — Device & System Diagnostics**
+  - DIEX (DX): Real system metrics (CPU, Memory, Storage, Processes, WMI/PowerShell integration).
+- **Phase 3 — Defensive Security Analysis**
+  - SOVEREIGN (SV): Security configuration analysis, firewall, open ports, startup persistence.
+- **Phase 4 — Software Doctor**
+  - SAGE (SD): Software project detection, runtime log analysis, dependency checks.
+- **Phase 5 — AI Intelligence & Tool Execution**
+  - COGNIS (AI): Reasoning loop, integration with Tool Registry & Permission checks.
+- **Phase 6 — Evidence & Verification Pipeline**
+  - Evidence correlation and automated verification verification loops.
+- **Phase 7 — Voice Interface**
+  - VOX (VX): STT/TTS local integration and multilingual interaction.
+- **Phase 8 — Defensive Response & Recovery**
+  - AEGIS (DR) and RECOVER (RB): User-authorized remediation, process management, rollback.
+- **Phase 9 — Command Dashboard & UX**
+  - HORIZON (HC) & AURA (UX): Web/desktop interface.
+- **Phase 10 — Privacy & Continuous Monitoring**
+  - VEIL (PR) secret redaction & PULSEWATCH (HM) agent.
+- **Phase 11 — Performance Optimization**
+  - PULSE (PX) benchmarks and resource tuning for USB drives.
+- **Phase 12 — Production USB Packaging**
+  - Production USB image generation and cross-platform verification.
