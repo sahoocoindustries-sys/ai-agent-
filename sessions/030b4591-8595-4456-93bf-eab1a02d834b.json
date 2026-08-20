@@ -1,0 +1,26 @@
+{
+  "session_id": "030b4591-8595-4456-93bf-eab1a02d834b",
+  "created_at": "2026-08-20T10:17:46.485786+00:00",
+  "terminated_at": null,
+  "is_active": true,
+  "metadata": {
+    "host": "devbox",
+    "os": "Linux"
+  },
+  "capabilities_snapshot": {
+    "HOST_CONNECT": "VERIFIED",
+    "PORTABLE_MODE": "VERIFIED",
+    "CONSENT_MANAGEMENT": "VERIFIED",
+    "SESSION_MANAGEMENT": "VERIFIED",
+    "TOOL_REGISTRATION": "VERIFIED",
+    "EVIDENCE_COLLECTION": "VERIFIED",
+    "VERITAS_VERIFICATION": "VERIFIED",
+    "SYSTEM_DIAGNOSTICS": "NOT_IMPLEMENTED",
+    "SECURITY_SCAN": "NOT_IMPLEMENTED",
+    "SOFTWARE_DOCTOR": "NOT_IMPLEMENTED",
+    "AI_REASONING": "NOT_IMPLEMENTED",
+    "VOICE_INTERFACE": "NOT_IMPLEMENTED",
+    "DEFENSIVE_REMEDIATION": "NOT_IMPLEMENTED",
+    "MOBILE_CONTROL": "ACCESS_UNAVAILABLE"
+  }
+}
