@@ -1,0 +1,28 @@
+# RUDRA Implementation Roadmap
+
+- **Phase 0 — Foundation Architecture (COMPLETED & VERIFIED)**
+  - Core models, config, event bus (BRIDGE), permissions (CONSENT), sessions (SESSION), tool registry (TOOL REGISTRY), evidence (EVIDENCE), verification engine (VERITAS), platform abstraction, orchestrator (AXIOM), documentation, unit tests.
+- **Phase 1 — Portable Core (COMPLETED & VERIFIED)**
+  - Portable runtime environment (`UP - PORT`), host/device connection layer (`CN - CONNECT`), capability registry, capability-based permission audit logs (`CP - CONSENT`), session disk persistence & recovery (`ST - SESSION`), updated AXIOM orchestrator, 13 pytest unit tests.
+- **Phase 2 — Device & System Diagnostics (PLANNED / NOT_IMPLEMENTED)**
+  - DIEX (DX): Real system metrics (CPU, Memory, Storage, Processes, WMI/PowerShell integration).
+- **Phase 3 — Defensive Security Analysis (PLANNED / NOT_IMPLEMENTED)**
+  - SOVEREIGN (SV): Security configuration analysis, firewall, open ports, startup persistence.
+- **Phase 4 — Software Doctor (PLANNED / NOT_IMPLEMENTED)**
+  - SAGE (SD): Software project detection, runtime log analysis, dependency checks.
+- **Phase 5 — AI Intelligence & Tool Execution (PLANNED / NOT_IMPLEMENTED)**
+  - COGNIS (AI): Reasoning loop, integration with Tool Registry & Permission checks.
+- **Phase 6 — Evidence & Verification Pipeline (PLANNED / NOT_IMPLEMENTED)**
+  - Evidence correlation and automated verification verification loops.
+- **Phase 7 — Voice Interface (PLANNED / NOT_IMPLEMENTED)**
+  - VOX (VX): STT/TTS local integration and multilingual interaction.
+- **Phase 8 — Defensive Response & Recovery (PLANNED / NOT_IMPLEMENTED)**
+  - AEGIS (DR) and RECOVER (RB): User-authorized remediation, process management, rollback.
+- **Phase 9 — Command Dashboard & UX (PLANNED / NOT_IMPLEMENTED)**
+  - HORIZON (HC) & AURA (UX): Web/desktop interface.
+- **Phase 10 — Privacy & Continuous Monitoring (PLANNED / NOT_IMPLEMENTED)**
+  - VEIL (PR) secret redaction & PULSEWATCH (HM) agent.
+- **Phase 11 — Performance Optimization (PLANNED / NOT_IMPLEMENTED)**
+  - PULSE (PX) benchmarks and resource tuning for USB drives.
+- **Phase 12 — Production USB Packaging (PLANNED / NOT_IMPLEMENTED)**
+  - Production USB image generation and cross-platform verification.
